@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔍 Exploring the intersection of **Industrial Engineering**, **Data Science**, and **Web Security**
+- 🔍 Exploring the intersection of **Product Management**, **Data Science**, and **Web Security**
 - 🤖 Building projects using **Python, Scikit-learn, Power BI, Snowflake, AWS, and NLP**
-- 💡 Currently learning **Generative AI**, **LangChain**, and **Advanced DSA**
 
 ---
 
