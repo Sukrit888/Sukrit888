@@ -1,57 +1,52 @@
-# 👋 Hi there, I'm Sukrit Kashyap Goswami!
+# 👋 Hi, I’m Sukrit Kashyap Goswami
 
-🎓 Master's in Engineering Management — Northeastern University, Boston  
-🧠 Passionate about AI, Machine Learning, and Data-Driven Solutions  
-🌐 Based in India | Open to global opportunities  
-📌 Fun Fact: I ranked **AIR 33** in the National Emotional Intelligence Test (IIT Delhi)!
-
----
-
-## 🚀 About Me
-
-- 🔍 Exploring the intersection of **Product Management**, **Data Science**, and **Web Security**
-- 🤖 Building projects using **Python, Scikit-learn, Power BI, Snowflake, AWS, and NLP**
+🎓 MSEM Graduate — Northeastern University, Boston  
+🧠 Passionate about **AI + Product Strategy**  
+📍 Based in India | Open to global roles  
+🥇 Ranked **AIR 33** in IIT Delhi’s National Emotional Intelligence Test  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 What I Do
 
-- **Languages**: Python, SQL, HTML, Markdown  
-- **Data Tools**: Power BI, Excel, Tableau, Pandas, NumPy  
-- **ML & AI**: Scikit-learn, NLTK, LangChain, HuggingFace  
-- **Cloud & DB**: AWS, Snowflake, MySQL  
-- **Version Control**: Git, GitHub  
-- **Other Tools**: Jupyter, Google Colab, VS Code
+I build intelligent tools that bridge **AI/ML technology** with **real product outcomes**.
 
----
+🔹 Recently built:  
+**[GenAI Deployment Lifecycle Manager](https://genai-deployment-dashboard-ystvexafusjkyuthujckwa.streamlit.app/)** — a real-time dashboard to simulate LLMOps monitoring and decisions (Streamlit + Altair + Python)
 
-## 📊 Projects
-
-Here are some cool projects I've built and shared:
-
-- 🧠 [Spam-Ham Detection using NLP & BoW](https://github.com/Sukrit888/Spam-Ham-NLTK-Project-using-BOW-)
-- 🌾 [Rainfall & Yield Analysis using Power BI + Snowflake + AWS](https://github.com/Sukrit888/Agriculture-Analysis)  
-- 💳 [UPI Trends Dashboard with Power BI](https://github.com/Sukrit888/UPI-Analysis-Project)  
-- 🔍 [Diabetes Prediction using Decision Tree](https://github.com/Sukrit888/Diabetes-Prediction-using-Decision-Tree-Regressor)  
-- 🌲 [Random Forest Classifier Project](https://github.com/Sukrit888/Random-Forest-Classifier-Object)
-
-📌 _Check my pinned repositories below for more._
+🔹 Actively exploring:
+- GenAI monitoring + metrics  
+- Product-led design for ML tools  
+- Data visualization and communication  
 
 ---
 
-## 📈 GitHub Stats
+## 🔧 Tech Stack (Condensed)
 
-![Sukrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukrit888&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukrit888&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sukrit-goswami-6bb224190/)  
-- 📧 6sukritgoswami@gmail.com or goswami.su@northeastern.edu  
-- 💬 Always open to collaborations and freelance AI/ML gigs!
+`Python` • `Streamlit` • `Pandas` • `Power BI` • `Scikit-learn`  
+`AWS` • `Snowflake` • `SQL` • `LangChain` • `HuggingFace`
 
 ---
 
-> “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
+## 🛠️ Selected Projects
+
+- 🧠 **GenAI Deployment Dashboard** – [Demo](https://genai-deployment-dashboard-ystvexafusjkyuthujckwa.streamlit.app/) | [Repo](https://github.com/Sukrit888/genai-deployment-dashboard)  
+- 📊 **UPI Trends Dashboard** – Power BI-based visual analysis  
+- 🌾 **Rainfall & Yield Forecasting** – Snowflake + AWS + BI  
+- 🔍 **Diabetes Prediction Model** – Decision Trees, Python  
+- 🧹 **Spam-Ham Detection** – NLP, BoW
+
+> 📌 *See pinned repos for full project list*
+
+---
+
+## 📫 Let’s Connect
+
+🌐 [LinkedIn → Sukrit Kashyap Goswami](https://www.linkedin.com/in/sukritkashyapgoswami/)  
+📧 goswami.su@northeastern.edu or 6sukritgoswami@gmail.com 
+💬 Open to AI/ML + PM roles, collabs, freelance projects
+
+---
+
+_“The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene_
+
